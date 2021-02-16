@@ -39,6 +39,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Changed
  - Removed requirement to have a 'default' network when using google-redis.
 
+### Changed
+ - Removed requirement to have a 'default' network when using google-redis.
+
 ## [4.2.2] - 2019-02-06
 
 ### Fixed
